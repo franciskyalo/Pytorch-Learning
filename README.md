@@ -16,6 +16,5 @@ Follow along as I go from **"What’s a tensor?"** to **"Deploying AI models lik
 
 ---
 
-![Deep Learning Meme](https://i.imgur.com/3zM8B0z.jpeg)  
 
 
